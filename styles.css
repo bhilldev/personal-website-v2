@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+ }
+
+ html, body {
+  margin:0;
+  padding:0;
+  width: 100%;
+  height: 100%;
+ }
+.segment {
+  width: 100%;
+  height: 100%;
+}
+ #intro {
+   background-color: #344955;
+ }
+
+ #skills {
+   background-color: #50727B;
+ }
+ #projects {
+   background-color: #78A083;
+ }
