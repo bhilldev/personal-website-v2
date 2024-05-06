@@ -13,11 +13,23 @@
   height: 100%;
 }
  #nav_segment {
+  display: flex;
+  flex-direction: row;
   background-color: #35374B;
   height: 50px;
 }
 #name {
+  align-self: start;
   margin: auto;
+  padding: 10px;
+}
+#buttons {
+  align-self: end;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+}
+.button {
   padding: 10px;
 }
  #intro {
