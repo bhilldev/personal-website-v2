@@ -17,6 +17,7 @@
   flex-direction: row;
   background-color: #35374B;
   height: 50px;
+  color: #78A083;
 }
 #name {
   align-self: start;
@@ -27,7 +28,7 @@
   align-self: end;
   margin: auto;
   display: flex;
-  flex-direction: row;
+  flex-direction: row;  
 }
 .button {
   padding: 10px;
@@ -38,6 +39,8 @@
    text-align: center;
    align-items: center;
    background-color: #344955;
+  color: #78A083;
+
  }
 
  #skills {
